@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+ }
+ header{
+    width: 1366px;
+    height: 115px;
+    background: sandybrown;
+    text-align: center;
+
+
+}
+ nav{
+    width: 1366px;
+    height: 55px;
+    background: slategray;
+    text-align: center; 
+}
+section{
+    width: 1366px;
+    height: 400px;
+    background: salmon;
+    text-align: center; 
+}
+aside{
+    width: 366px;
+    height: 400px;
+    background: skyblue;
+    text-align: center; 
+    float: right;  
+}
+footer{
+    width: 1366px;
+    height: 400px;
+    background: silver;
+    text-align: center; 
+}
